@@ -7,7 +7,7 @@ class Window(tk.Tk):
 
 def main()->None:
     window = Window()
-    window.title("第一次視窗")
+    window.title("第2004第一次視窗")
     window.mainloop()
 
 if __name__ == "__main__":
